@@ -3,7 +3,7 @@ const repeatString = function(word, repeatNumber) {
     for(let i=0; i<repeatNumber; i++){
         output+=word
     }
-    return output
+    return output;
 };
 
 // Do not edit below this line
